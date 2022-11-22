@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+.navbar{
+    background-color:skyblue;
+    color: white;
+    height:65px;
+    font-size:20px;
+    padding:1rem;
+    display:flex;
+    justify-content: space-between;
+    position: sticky;
+    top:0;
+    
+}
+.nav-button{
+    background-color:rgb(189, 128, 189);
+    padding:10px;
+    border-radius: 20px;
+    box-shadow:0 0px 10px black;
+
+
+
+}
+.nav-button:hover{
+    background-color:black;
+}
+.navlink{
+    text-decoration: none;
+    color:white;
+    font-family:"jost", sans-serif;
+}
+.headerlogo{
+    width:100px;
+    height:100px;
+    position:absolute;
+    top:-8px;
+
+
+}
+.nav-links{
+    list-style: none;
+    display:flex;
+    gap:30px;
+    align-items:center;
+    
+}
+.nav-link{
+    color:white;
+    text-decoration: none;
+    padding:10px;
+    text-align: justify;
+    font-family:"jost",sans-serif;
+}
+
+.nav-link:hover{
+    color:black;
+    background-color:white;
+    border-radius: 20px;
+}
+.nav-icons{
+    cursor:pointer;
+    font-size: 2rem;
+    display: none;
+    color:white;
+    
+}
+@media screen and (max-width:600px) {
+    .nav-icons{
+        display:flex;
+    }
+    .nav-links{
+        display:flex;
+        flex-direction:column-reverse;
+        text-align:center;
+        position:absolute;
+        width:101%;
+        top:42px;
+        left:-109%;
+        background-color:skyblue;
+        padding:6px;
+        transition: 0.3s ease-in-out;
+    }
+    .nav-links.active{
+        left: -1%;
+        transition: 0.3s ease-in-out;
+
+
+    }
+    .nav-item{
+        padding:10px;
+        text-align:center;
+    
+    }
+}

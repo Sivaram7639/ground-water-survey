@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+.social{
+    text-align: center;
+    color:black;
+    background-color: beige;
+    padding: 25px;
+    font-family: "jost",sans-serif;
+}.twit{
+    color:blue;
+    font-size:2rem;
+    padding:10px;
+}
+.twit:hover{
+    color:black;
+}
+.tube{
+    color:red;
+    font-size: 2rem;
+    padding:10px;
+}
+.tube:hover{
+    color:black;
+}
+.fbk{
+    color:blue;
+    font-size: 2rem;
+    padding:10px;
+
+}
+.fbk:hover{
+    color:black;
+}
+.what{
+    color:rgb(223, 18, 72);
+    font-size: 2rem;
+    padding:10px;
+}
+.what:hover{
+    color:black;
+}

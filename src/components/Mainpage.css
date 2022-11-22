@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+.Headerpage{
+    background-color:beige ;
+    padding:20px;
+    border-color: black;
+}
+.india{
+    color:rgb(53, 149, 109);
+    text-align: center;
+    font-family:"jost",sans-serif;
+}
+.title{
+    text-align: center;
+    font-size: larger;
+    border-radius: 10px;
+    background-color: white;
+    color:rgb(96, 128, 156);
+    font-family:'jost', sans-serif;
+}
+.button{
+    color:white;
+    border-radius: 20px;
+    padding:10px;
+    background-color: purple;
+    border: none;
+    font-size:medium;
+    font-family: 'jost', sans-serif;
+    height: 20px;
+    width:110px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    box-shadow: 0px 8px 15px black;
+    cursor:pointer;
+    
+}
+    
+.button:hover{
+    color:white;
+    background-color: black;
+    box-shadow:0px 5px 25px black;
+    
+}
+.parag{
+    text-align: center;
+    font-size: medium;
+    font-family:'jost', sans-serif;
+}
+.picture{
+    height:60%;
+    width:90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 10px;
+    padding:20px
+    
+}

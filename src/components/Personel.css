@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+.companydetails{
+    background-color: beige;
+    padding:20px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size:small;
+}
+.details{
+    font-size: 15px;
+    font-family:"jost", sans-serif;
+}
+.owner{
+    font-size: 15PX;
+    color:blue;
+    font-family:"jost", sans-serif;
+}
+.companytitle{
+    color:skyblue;
+    text-align: center;
+    font-family:"jost", sans-serif;
+}
+
+.whats{
+    font-size: 2rem;
+    color:green;
+    padding:10px; 
+}
+.whats:hover{
+    color:black;
+}
+.phone{
+    font-size: 2rem;
+    padding:10px;
+
+}
+.phone:hover{
+    color:black;
+}
+.map{
+    color:blue;
+    font-size: 2rem;
+    padding:10px
+}
+.map:hover{
+    color:black;
+}
+.contact{
+    color:purple;
+    font-size: large;
+    text-decoration: underline;
+    font-family:"jost", sans-serif;
+}
+.Headerdetails{
+    background-color:rgb(239, 219, 219);
+    text-align:center;
+    padding:20px;
+    width:90%;
+    height: 50%;
+    border-radius: 20px;
+    margin-left:auto;
+    margin-right:auto;
+    align-items: center;
+}
+.icons{
+    text-align: center;
+}

@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+.designerpage{
+    background-color:black;
+    padding:15px
+}
+.copyright{
+    text-align: center;
+    font-size: medium;
+    color:white;
+    font-family:"jost", sans-serif;
+
+}
+.designer{
+    color:white;
+    text-align: center;
+    font-family: "jost",sans-serif;
+}
+.designername{
+    text-decoration: none;
+    color:red;
+    font-size:15px;
+    font-family: "jost",sans-serif;
+    cursor: pointer;
+}
+.designername:hover{
+    background-color: white;
+    border-radius: 5px;
+    color:black;
+}

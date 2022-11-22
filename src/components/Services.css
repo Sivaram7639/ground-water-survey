@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+.service{
+    background-color: beige;
+    padding:20px;
+}
+.pageheader{
+    text-align: center;
+    background-color:white;
+    color:black;
+    border-radius: 10px;
+    font-family:"jost",sans-serif;
+
+
+}
+.detecter{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 50%;
+    height: 50%;
+}
+.spec{
+    font-size:20px;
+    text-align: center;
+    font-family:"jost",sans-serif;
+}
+.mechname{
+    text-align: center;
+    font-size: 25px;
+    color: green;
+    font-family: "jost", sans-serif;
+}
+.detecter1{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 50%;
+    height: 50%;
+}
+.mechname1{
+    text-align: center;
+    font-size: 25px;
+    color: green;
+    font-family:"jost",sans-serif;
+}
+.specs{
+    font-size:20px;
+    text-align: center;
+    font-family:"jost",sans-serif;
+}
+.mechname2{
+    text-align: center;
+    font-size: 25px;
+    color: green;
+    font-family: "jost", sans-serif;
+}
+.specs2{
+    font-size:20px;
+    text-align: center;
+    font-family:"jost",sans-serif;
+}
+.detecter2{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 50%;
+    height: 50%;
+}
