@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ground-water-survey/static/css/main.ba2d194a.css",
+    "main.js": "/ground-water-survey/static/js/main.df690882.js",
+    "static/js/787.2694394f.chunk.js": "/ground-water-survey/static/js/787.2694394f.chunk.js",
+    "static/media/mainpic.jpg": "/ground-water-survey/static/media/mainpic.26ebe90538898586d7b0.jpg",
+    "static/media/log.png": "/ground-water-survey/static/media/log.063199d0625533bc0487.png",
+    "static/media/scanner.png": "/ground-water-survey/static/media/scanner.6403aedfb115253ad8d0.png",
+    "static/media/detecter2.png": "/ground-water-survey/static/media/detecter2.fea8e981f8b9cacc0dca.png",
+    "static/media/detecter.png": "/ground-water-survey/static/media/detecter.70a088bf3e66dc65fbea.png",
+    "static/media/logo-web.png": "/ground-water-survey/static/media/logo-web.9e8b0db518bb24054aea.png",
+    "index.html": "/ground-water-survey/index.html",
+    "main.ba2d194a.css.map": "/ground-water-survey/static/css/main.ba2d194a.css.map",
+    "main.df690882.js.map": "/ground-water-survey/static/js/main.df690882.js.map",
+    "787.2694394f.chunk.js.map": "/ground-water-survey/static/js/787.2694394f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba2d194a.css",
+    "static/js/main.df690882.js"
+  ]
+}
