@@ -27,3 +27,19 @@
     border-radius: 5px;
     color:black;
 }
+@media screen and (max-width:764px)
+{
+.designername{
+    text-decoration: none;
+    color:red;
+    font-size:15px;
+    font-family: "jost",sans-serif;
+    cursor: pointer;
+}
+.designername:hover{
+    background-color: white;
+    border-radius: 5px;
+    color:black;
+}
+
+}
