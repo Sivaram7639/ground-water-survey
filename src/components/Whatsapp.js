@@ -11,7 +11,7 @@ const Whatsapp = () => {
 			widgetWidth="300px"
 			widgetWidthMobile="260px"
 			autoOpen={true}
-			autoOpenTimer={1000}
+			autoOpenTimer={1}
 			messageBox={true}
 			messageBoxTxt=""
 			iconSize="50"
